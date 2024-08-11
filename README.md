@@ -1,1 +1,2 @@
-
+# EasyStake
+prediction tool
